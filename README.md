@@ -11,7 +11,6 @@
 Remember to use a wallet that use the ganache network to interact with the smart contract and test the application, in this application you can mint any Nft, its main function is to be a Nft marketplace to buy the cryptoBirdz Nft collection, but is not finished, if you want to mint any image, you can go to https://es.imgbb.com/, in that page you can convert any image to a link so you can mint an Nft, that Nft would be the image that you want, once minted, the Nft will be shown on the app.
 
 ## Optimizations
-*(optional)*
 
 The code is not easier to read because this project is one of my first ones made in react, can be optimize using useContext and on the contract events could be created and add event listeners using web3 on an useEffect so when an nfts is minted, it can be shown in real time when the transaction is completed.  
 
